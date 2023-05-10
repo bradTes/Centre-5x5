@@ -52,3 +52,13 @@ video{
     width: 75vw;
     margin: 2rem 5rem ;
 }
+.wts{
+    background-color: rgb(4, 197, 4);
+    margin: 2rem 0 ;
+    color: white;
+    font-weight: bold;
+}
+.wts:hover{
+    background-color: rgb(1, 185, 1);
+
+}
